@@ -6,8 +6,8 @@ wandb_run_name='gpt2-124M'
 
 
 
-n_layer = 7
-n_head = 4
+n_layer = 8
+n_head = 3
 n_embd = 512
 
 
