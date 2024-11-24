@@ -1,4 +1,4 @@
-out_dir = 'out-tinystories'
+out_dir = 'out-riyal modal'
 eval_interval = 1000
 eval_iters = 100
 log_interval = 100
