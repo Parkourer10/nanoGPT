@@ -6,7 +6,7 @@ always_save_checkpoint = True
 
 # Weights & Biases logging
 wandb_log = False
-wandb_project = 'tinystories-60m'
+wandb_project = 'gpt-60m'
 wandb_run_name = 'gpt-60m'
 
 # Dataset config
