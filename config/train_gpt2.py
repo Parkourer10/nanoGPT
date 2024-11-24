@@ -1,4 +1,4 @@
-out_dir = 'out-riyal modal'
+out_dir = 'out-riyal'
 eval_interval = 1000
 eval_iters = 100
 log_interval = 10
