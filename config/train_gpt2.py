@@ -6,9 +6,9 @@ wandb_run_name='gpt2-124M'
 
 
 
-n_layer = 6
+n_layer = 8
 n_head = 4
-n_embd = 512
+n_embd = 640
 
 
 batch_size = 64
