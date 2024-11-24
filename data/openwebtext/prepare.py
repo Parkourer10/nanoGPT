@@ -18,7 +18,7 @@ if __name__ == '__main__':
 
     # Subsample the train split to make it 1/3 of its original size
     train_size = len(dataset["train"])  # Original train size
-    reduced_train_size = train_size // 2  # One-third of the original train size
+    reduced_train_size = train_size // 3  # One-third of the original train size
     reduced_train_split = dataset["train"].train_test_split(test_size=1 - (reduced_train_size / train_size), seed=2357, shuffle=True)
     reduced_train_dataset = reduced_train_split['train']
 
