@@ -1,15 +1,10 @@
-
-
 wandb_log = False
 wandb_project = 'owt'
 wandb_run_name='gpt2-124M'
 
-
-
 n_layer = 8
 n_head = 3
 n_embd = 512
-
 
 batch_size = 64
 block_size = 512
