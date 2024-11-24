@@ -10,7 +10,7 @@ wandb_project = 'gpt-60m'
 wandb_run_name = 'gpt-60m'
 
 # Dataset config
-dataset = 'tinystories'
+dataset = 'openwebtext'
 gradient_accumulation_steps = 4
 batch_size = 64  # Reduce batch size if VRAM is insufficient
 block_size = 512
